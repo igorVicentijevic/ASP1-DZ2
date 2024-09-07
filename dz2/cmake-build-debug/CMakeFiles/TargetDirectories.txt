@@ -1,0 +1,3 @@
+C:/Users/Jasam/Desktop/Fagz/ASP/dz2/dz2/cmake-build-debug/CMakeFiles/dz2.dir
+C:/Users/Jasam/Desktop/Fagz/ASP/dz2/dz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jasam/Desktop/Fagz/ASP/dz2/dz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
