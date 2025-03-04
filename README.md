@@ -1,1 +1,1 @@
-Koriscenje stabla odlucivanja za resavanje problema
+Using a decision tree to solve a problem.lem
