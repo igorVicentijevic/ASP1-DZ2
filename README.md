@@ -1,1 +1,1 @@
-Using a decision tree to solve a problem.lem
+Using a decision tree to solve a problem
